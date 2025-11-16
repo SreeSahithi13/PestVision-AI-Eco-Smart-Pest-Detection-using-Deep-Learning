@@ -1,1 +1,0 @@
- pip install streamlit tensorflow opencv-python pillow streamlit-lottie requests numpy
